@@ -1,0 +1,11 @@
+Pseudocode:
+
+I will need a box to contain everything
+
+Within the box will be an input box with a button
+
+The input box is used to write what needs to be done, and a button to add it to a list
+
+The list item will have a check mark to mark complete and cause to dissappear/place check mark next to it
+
+The list item will have a delete button to delete if doesn't need to be done/input by accident
