@@ -1,6 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
+
 body {
   background-color: black;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Press Start 2P", sans-serif;
   color: white;
 }
 
@@ -8,7 +10,7 @@ body {
   margin: auto;
   width: auto;
   height: 600px;
-  border: 3px solid yellow;
+  border: 5px dashed yellow;
 }
 
 li {
@@ -26,11 +28,13 @@ li {
 
 li button {
   background-color: red;
+  font-family: "Press Start 2P", sans-serif;
   border: 2px solid black;
   color: yellow;
+  padding: 5px;
 }
 
 .btn {
   background-color: yellow;
-  border: 2px solid black;
+  border: 0.4px black;
 }
