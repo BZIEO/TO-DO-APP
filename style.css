@@ -9,7 +9,7 @@ body {
 .container {
   margin: auto;
   width: auto;
-  height: 600px;
+  height: 1000px;
   border: 5px dashed yellow;
 }
 
